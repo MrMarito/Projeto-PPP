@@ -1,4 +1,4 @@
-# Projeto-PPP 2020/2021
+# Word Finder
 
 Este projeto é dividido em duas fases.
 O objetivo do projeto é permitir procurar palavras num texto em português, codificado em utf-8, e mostrá-las em contexto.
@@ -38,3 +38,6 @@ ler do ficheiro de texto, diretamente, a parte a mostrar como contexto de cada p
 O utilizador deve ainda poder pedir para serem listadas todas as palavras que comecem por uma letra, ou gama de letras. 
 Neste caso devem ser listadas todas as ocorrências das palavras nesse intervalo, uma por 
 linha, no formato, "palavra posição1 posição2 posição3 ... posiçãoN" com as posições ordenadas por ordem crescente
+
+# Authors
+ - [Mário Lemos](https://github.com/MrMarito)
